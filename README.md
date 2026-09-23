@@ -1,2 +1,2 @@
 # pradnya
-this repo used for demo purpose 
+this repo used for demo purpose of education
